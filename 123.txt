@@ -11,5 +11,7 @@ C:\Program Files (x86)\MySQL\MySQL Fabric 1.5 & MySQL Utilities 1.5\Doctrine ext
 
 
 
-%Java_Home%\bin;%Java_Home%\jre\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;%CATALINA_HOME%\lib;%CATALINA_HOME%\bin;%CATALINA_HOME%\lib\servlet-api.jar;%CATALINA_HOME%\lib\jsp-api.jar;%MYSQL_HOME%\bin;C:\Program Files\Azure Data Studio\bin;
+11111111111111111
+22222222222
+
 
